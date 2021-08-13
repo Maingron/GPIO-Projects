@@ -1,0 +1,3 @@
+[submodule "submodules/Raspberry-Pi-Simple-Web-GPIO-GUI"]
+	path = submodules/Raspberry-Pi-Simple-Web-GPIO-GUI
+	url = git@github.com:tutRPi/Raspberry-Pi-Simple-Web-GPIO-GUI.git
