@@ -13,7 +13,7 @@ Maingron
 
 ## Dependencies
 - Raspberry Pi with: (most projects)
-- - Python
+- - Python 2.7.16
 
 ## Liability
 I'm not responsible for any physical damage caused by my projects, so you should verify before copying a project!  
