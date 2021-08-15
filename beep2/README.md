@@ -18,4 +18,6 @@
 - 5 (GPIO 3) <span style="color:brown">[</span>Brown]
 - 6 (Ground) <span style="color:black">[</span>Black]
 - 10 (GPIO 15) <span style="color:brown">[</span>Brown]
+
+
 ![](../img/RaspberryPI_GPIO.png)

@@ -13,8 +13,16 @@ Maingron
 
 ## Dependencies
 - Raspberry Pi with: (most projects)
-- - Python 2.7.16
+- - Python
+- Breadboard
+- Some electrical components (A breadboard starter kit should be enough in most cases)
 
 ## Liability
 I'm not responsible for any physical damage caused by my projects, so you should verify before copying a project!  
 Of course I try not to cause damage because I want to keep using my own hardware.
+
+## Additional informations
+If you use one of my projects for something, make sure to let me know. I'd love to see some projects!
+
+Raspberry PI GPIO layout:  
+![](img/RaspberryPI_GPIO.png)
