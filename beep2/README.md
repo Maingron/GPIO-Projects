@@ -29,7 +29,7 @@
 ### Get going
 What you need to build the project yourself:  
 [Python Code](beep2.py)  
-[Fritzinger Schematic File](beep2.fzz)  
+[Fritzing Schematic File](beep2.fzz)  
 ![Schematic SVG](beep2.fzz.svg)  
 
 The Python code has to run on the Raspberry Pi. Once it's running, it's listening for a button press on the Breadboard and then allows current to pass to whatever you build below.
