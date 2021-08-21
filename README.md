@@ -1,5 +1,7 @@
 # GPIO Projects
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/1dff8b0f4df89bdbc006/maintainability)](https://codeclimate.com/github/Maingron/GPIO-Projects/maintainability)
+
 ## Project Info
 
 This repository contains all my breadboard projects. For GPIO access, I use a Raspberry Pi 3. I think it's revision 3B (Not 3B+). Mostly I use Python Scripts. Additional Information will be documented within the files of a specific project.  
