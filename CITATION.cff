@@ -1,0 +1,10 @@
+# YAML 1.2
+---
+authors:
+  - alias: "Maingron"
+    website: "//maingron.com"
+cff-version: "1.1.0"
+message: Citation
+repository-code: "//github.com/Maingron/GPIO-Projects"
+contact: "//maingron.com/contact"
+title: "Maingron/GPIO-Projects"
